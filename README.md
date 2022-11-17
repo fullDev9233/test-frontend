@@ -8,15 +8,10 @@
 
 In the server directory, you can run:
 
-### Production
-
-```
-  `npm start`
-```
 ### Development
 
 ```
-  `nodemon app.js`
+  `npm start`
 ```
 
 ### Port
